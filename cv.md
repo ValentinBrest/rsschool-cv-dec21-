@@ -12,8 +12,36 @@
  + football, 
  + swimming, 
  + cycling.
- My Hobbis
+ My Hobbies
  + playing guiatar
  + and dancing
 
 I am currently a student at RSSchool. I want to become a Front-end developer. **And I'll do it**.
+
+## _Skills_:
+* HTML
+* CSS (Bootstrap, SASS/SCSS, БЭМ)
+* JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
+* Git/GitHub
+* Webpack, Gulp
+* Visual Studio Code
+* MathCad
+* AutoCad
+
+## _Code examples_:
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
+## _Work experience_:
+ I worked as an engineer in a construction organization. Also I've been to England. It was really interesting. 
+
+## _Education_:
+From 2013 to 2018, I studied at BrSTU (Building faculty)
+
+## _Language_:
+I started learning English after university, there was German. I was able to talk to native speakers in England. It was an incredible experience. My level of English at the moment is A2+.
